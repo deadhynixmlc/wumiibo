@@ -18,7 +18,7 @@ static int keystrtokeyval(char *str)
         { "LEFT",   KEY_DLEFT},
         { "UP",     KEY_DUP},
         { "DOWN",   KEY_DDOWN},
-        { "R",      KEY_R},
+        { "R",      KEY_L},
         { "L",      KEY_L},
         { "X",      KEY_X},
         { "Y",      KEY_Y}
