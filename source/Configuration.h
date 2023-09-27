@@ -15,5 +15,6 @@ class Configuration
     private:
         char *m_data;
         uint32_t m_keyval = KEY_L | KEY_START | KEY_DDOWN;
+        uint32_t m_keyval = KEY_R | KEY_START | KEY_DDOWN;
         uint8_t m_debug = 0;
 };
